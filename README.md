@@ -8,7 +8,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-3776AB?logo=PHP&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-white?logo=go&logoColor=3776AB)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazar&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nazar&show_icons=true&theme=radical)
 
 ### ~ Contribution with Snake
 <picture>
