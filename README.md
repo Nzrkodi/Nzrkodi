@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [NAZAR]!
+# Hi there 👋, I'm NAZAR
 ### [Backend Developer, Full-Stack Developer | Open-Source Enthusiast]
 
 ### 🛠 Tech Stack
