@@ -1,5 +1,5 @@
-# Hi there 👋, I'm [Your Name]!
-### [Your Role, e.g., Full-Stack Developer | Open-Source Enthusiast]
+# Hi there 👋, I'm [NAZAR]!
+### [Backend Developer, Full-Stack Developer | Open-Source Enthusiast]
 
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
